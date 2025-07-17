@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProductMonitoring/static/css/main.a24dce5d.css",
-    "main.js": "/ProductMonitoring/static/js/main.f9d73e08.js",
+    "main.js": "/ProductMonitoring/static/js/main.42c84fbb.js",
     "static/media/red-alphabet-balloons-forming-word-help.jpg": "/ProductMonitoring/static/media/red-alphabet-balloons-forming-word-help.6ec2c65118a1d5c74769.jpg",
     "static/media/cust1.jpg": "/ProductMonitoring/static/media/cust1.3ff9124048d7331d8ee0.jpg",
     "static/media/home1.jpg": "/ProductMonitoring/static/media/home1.f2e443f3e857a08a3f74.jpg",
@@ -10,10 +10,10 @@
     "static/media/moneybags-30556_1280.png": "/ProductMonitoring/static/media/moneybags-30556_1280.668cad76611a1b973411.png",
     "index.html": "/ProductMonitoring/index.html",
     "main.a24dce5d.css.map": "/ProductMonitoring/static/css/main.a24dce5d.css.map",
-    "main.f9d73e08.js.map": "/ProductMonitoring/static/js/main.f9d73e08.js.map"
+    "main.42c84fbb.js.map": "/ProductMonitoring/static/js/main.42c84fbb.js.map"
   },
   "entrypoints": [
     "static/css/main.a24dce5d.css",
-    "static/js/main.f9d73e08.js"
+    "static/js/main.42c84fbb.js"
   ]
 }
