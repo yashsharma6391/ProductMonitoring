@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a24dce5d.css",
+    "main.js": "/static/js/main.28a634ef.js",
+    "static/media/red-alphabet-balloons-forming-word-help.jpg": "/static/media/red-alphabet-balloons-forming-word-help.6ec2c65118a1d5c74769.jpg",
+    "static/media/cust1.jpg": "/static/media/cust1.3ff9124048d7331d8ee0.jpg",
+    "static/media/home1.jpg": "/static/media/home1.f2e443f3e857a08a3f74.jpg",
+    "static/media/img.jpg": "/static/media/img.8966fc17dc3cbe82784e.jpg",
+    "static/media/promotion.jpg": "/static/media/promotion.40f7c51cf8735fe0952d.jpg",
+    "static/media/moneybags-30556_1280.png": "/static/media/moneybags-30556_1280.668cad76611a1b973411.png",
+    "index.html": "/index.html",
+    "main.a24dce5d.css.map": "/static/css/main.a24dce5d.css.map",
+    "main.28a634ef.js.map": "/static/js/main.28a634ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24dce5d.css",
+    "static/js/main.28a634ef.js"
+  ]
+}
